@@ -219,18 +219,6 @@ nav ul a:hover {
   border: 2px solid #c9a96e;
 }
 
-.bio-text {
-  max-width: 480px;
-}
-
-.bio-text p {
-  font-size: 15px;
-  color: #888880;
-  line-height: 1.9;
-  margin-bottom: 16px;
-}
-
-
 .quote {
   background-color: #0f0f0f;
   text-align: center;
