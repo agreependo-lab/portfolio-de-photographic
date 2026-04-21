@@ -212,12 +212,7 @@ nav ul a:hover {
   text-align: left;
 }
 
-.profile-pic {
-  width: 250px;
-  height: 300px;
-  object-fit: cover;
-  border: 2px solid #c9a96e;
-}
+
 
 .quote {
   background-color: #0f0f0f;
